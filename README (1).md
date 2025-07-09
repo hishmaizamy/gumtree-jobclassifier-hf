@@ -82,5 +82,5 @@ hospitality
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/hishmaizamy)
+- [LinkedIn](https://www.linkedin.com/in/hishma-izamy)
 - [GitHub Portfolio](https://github.com/hishmaizamy)
