@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="banner.png" alt="Gumtree Job Classifier Banner" width="800"/>
-</p>
+</p> 
 
 
 
